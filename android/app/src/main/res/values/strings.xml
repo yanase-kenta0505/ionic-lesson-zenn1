@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-lesson-zenn</string>
+    <string name="title_activity_main">ionic-lesson-zenn</string>
+    <string name="package_name">ionic.test.starter</string>
+    <string name="custom_url_scheme">ionic.test.starter</string>
+</resources>
