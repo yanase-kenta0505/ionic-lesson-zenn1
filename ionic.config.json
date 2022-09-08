@@ -1,0 +1,7 @@
+{
+  "name": "ionic-lesson-zenn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
